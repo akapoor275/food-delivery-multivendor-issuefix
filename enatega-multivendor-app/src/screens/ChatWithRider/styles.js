@@ -54,10 +54,7 @@ const styles = (props = null) =>
     },
 
     emptyChat: {
-      marginTop: '140%',
-      transform: [
-        { scaleY: -1 },
-      ]
+      marginTop: '140%'
     },
 
     textRight: {
